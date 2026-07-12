@@ -18,3 +18,21 @@ This project is part of the FlyRank AI Internship Program and will be developed 
 - Build an AI-assisted frontend project.
 - Follow Conventional Commits.
 - Apply AI-assisted development practices.
+
+
+## Project Overview
+
+A web application that will be developed as part of the FlyRank AI Frontend Engineering capstone project.
+
+**Planned Features**
+- AI-assisted frontend workflows
+- Modern responsive user interface
+- Best practices with Next.js and TypeScript
+
+**Status**
+Repository initialized. Project implementation will begin in the next phase.
+
+## Getting Started
+
+The project setup phase is currently in progress.
+Development environment and AI-assisted workflow setup will be completed before implementation begins.
